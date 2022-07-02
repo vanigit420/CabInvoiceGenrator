@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CabInvoiceGenrator
 {
-    internal class UnitTest
+    internal class Ride
     {
     }
 }
